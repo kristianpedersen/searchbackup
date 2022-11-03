@@ -1,0 +1,1 @@
+module.exports = require('./src/netlify/functions/sanity-algolia-webhook/sanity-algolia-webhook.js')
